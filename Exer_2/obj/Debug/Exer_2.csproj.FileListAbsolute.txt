@@ -1,0 +1,7 @@
+C:\Users\Pas0quit0\Documents\C#\Lista 11\Lista 11\Exer_2\bin\Debug\Exer_2.exe.config
+C:\Users\Pas0quit0\Documents\C#\Lista 11\Lista 11\Exer_2\bin\Debug\Exer_2.exe
+C:\Users\Pas0quit0\Documents\C#\Lista 11\Lista 11\Exer_2\bin\Debug\Exer_2.pdb
+C:\Users\Pas0quit0\Documents\C#\Lista 11\Lista 11\Exer_2\obj\Debug\Exer_2.csproj.CoreCompileInputs.cache
+C:\Users\Pas0quit0\Documents\C#\Lista 11\Lista 11\Exer_2\obj\Debug\Exer_2.exe
+C:\Users\Pas0quit0\Documents\C#\Lista 11\Lista 11\Exer_2\obj\Debug\Exer_2.pdb
+C:\Users\Pas0quit0\Documents\C#\Lista 11\Lista 11\Exer_2\obj\Debug\Exer_2.csprojResolveAssemblyReference.cache
